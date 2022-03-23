@@ -1,0 +1,67 @@
+.container{
+  width: 900px;
+  margin: auto;
+  padding: 30px;
+  background-color:rgba(1,1,1,0.5);
+  border-radius: 15px;
+}
+
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+header, nav{
+  text-align: center;
+}
+
+nav{
+  background-color: #00FF00;
+  padding: 12px;
+}
+
+h1, main{
+  font-family: 'Poppins', sans-serif;
+}
+
+img{
+  width: 200px;
+}
+
+h1{
+  color: #00FF00;
+  margin-bottom: 2px;
+}
+main{
+  color: #FFFFFF;
+}
+
+h2{
+  display: inline-block;
+  margin-bottom: 2px;
+}
+
+p{
+  margin: 2px 2px;
+}
+
+#chargebarGino{
+  width: 350px;
+  height: 30px;
+  background-color: #ffb347;
+  border-radius: 5px;
+}
+
+#chargebarMike{
+  width: 500px;
+  height: 30px;
+  background-color: #32cd32;
+  border-radius: 5px;
+}
+
+#chargebarFede{
+  width: 150px;
+  height: 30px;
+  background-color: #d73b3e;
+  border-radius: 5px;
+}
